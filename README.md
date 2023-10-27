@@ -4,7 +4,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
@@ -20,18 +19,15 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
 I am a Backend Developer with a huge love for Laravel, RESTful APIs, RDBMS, WordPress, and TailwindCSS. Currently, 
 **I'm open to work and employment opportunities**.
 
 I love to watch Movies and listen to music.
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about PHP,Laravel and API development.
+- 💬 Ask me about PHP, Laravel, and API development.
 - :partying_face: Fun fact: I love to sing, I love to travel.
-- :wrench: Tools - VSCode,PHPStorm, Markdown Editors,Docker,Gitlab,Bitbucket, Postman.
-
-### Numbers
-
-### Where to find me
+- :wrench: Tools - VSCode, PHPStorm, Sublime Text, Gitlab, Bitbucket, Postman.
