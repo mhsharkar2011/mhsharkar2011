@@ -36,10 +36,11 @@ I am the co-founder of [webdevs24](https://webdevs24.com), one of the most popul
 I love to play games and listen to music.
 
 - :fireworks: I have developed some websites
-- 4. Fareast Knit Industries Limited
+  4. Fareast Knit Industries Limited
   3. Surma Tea House
   2. Zagato Fashions Limited
   1. Incredible Fashions Limited
+    
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
