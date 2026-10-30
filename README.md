@@ -35,8 +35,9 @@ I am the co-founder of [webdevs24](https://webdevs24.com), one of the most popul
 
 I love to play games and listen to music.
 
--- :fireworks: I have developed some websites
-- 1. Fareast Knit Industries Limited
+## Projects: 
+- I have developed some websites
+  1. Fareast Knit Industries Limited
   2. Surma Tea House
   3. Zagato Fashions Limited
   4. Incredible Fashions Limited
